@@ -161,7 +161,7 @@ By pressing the *grip button* you can reset the scale and height.
 
 ## Settings & Tweaks
 
-Settings can be changed in the file *vr_settings.xml*, which is generated the first time you start the game. Use `RenderScale` to tweak the resolution, **not** the internal resolution dialog, as that one will currently only change the resolution of the GUI.
+Settings can be changed in the file *vr_settings_for_IBL.xml*, which is generated the first time you start the game. Use `RenderScale` to tweak the resolution, **not** the internal resolution dialog, as that one will currently only change the resolution of the GUI.
 
 Tag      | Default | Effect | Mode
 ----     | ------  | ------ | ----
