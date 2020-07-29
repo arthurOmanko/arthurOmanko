@@ -165,15 +165,18 @@ Settings can be changed in the file *vr_settings.xml*, which is generated the fi
 
 Tag      | Default | Effect | Mode
 ----     | ------  | ------ | ----
-`<Distance>` | 0.3 | Sets the distance between the camera and the GUI at `[0,0,0]`. | Seated
+`<Distance>` | 0.1 | Sets the distance between the camera and the GUI at `[0,0,0]`. | Seated
 `<Angle>` | 170 | Sets the width of the arc the GUI takes up.  | Seated
-`<IPDScale>` | 1 | Sets the scale of the camera. The higher, the more gigantic the player is. | Seated / Standing
+`<IPDScale>` | 0.83 | Sets the scale of the camera. The higher, the more gigantic the player is. | Seated / Standing
 `<OffsetY>` | 0 | Sets the vertical offset of the GUI in meters. | Seated
 `<Rotation>` | 0 | Sets by how many degrees the GUI is rotated (around the y / up axis) | Seated
 `<Rumble>` | True | Sets whether or not rumble is activated. | Seated / Standing
 `<RenderScale>` | 1 | Sets the render scale of the renderer. Increase for better quality but less performance, decrease for more performance but poor quality. | Seated / Standing
 `<MirrorScreen>` | False | Sets whether or not the view should be mirrored in the game window. | Seated / Standing
-`<ApplyShaders>` | False | Sets whether or not post-processing shaders should automatically be applied to the camera. | Seated / Standing
+`<ApplyShaders>` | true | Sets whether or not post-processing shaders should automatically be applied to the camera. | Seated / Standing
+`<NearClip>` | 0.01 | Within this distance, seen chara gets transparent. | Seated / Standing
+`<PitchLock> | false | whether or not can rotate on all axises | Seated
+
 
 ## Building HoneySelectVR
 
