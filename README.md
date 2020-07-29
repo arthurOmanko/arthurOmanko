@@ -177,7 +177,10 @@ Tag      | Default | Effect | Mode
 `<NearClip>` | 0.01 | Within this distance, seen chara gets transparent. | Seated / Standing
 `<PitchLock>` | false | Whether or not can rotate on all axises | Seated
 `<Projection>` | flat | The appearance of GUI seen | Seated
-`<SpeechRecognition>` | false | Whether or not speech recognition is enabled. | Seated /Standing
+`<SpeechRecognition>` | false | Whether or not speech recognition is enabled. | Seated / Standing
+`<RotationMultiplier>` | 2.5 | Accelaration of rotation | Seated / Standing
+`<Leap>` | true | Whether or not Leap Motion support is activated. | Standing 
+`<GrabRotationImmediateMode>` | true | Determines the rotation mode. If enabled, pulling the trigger while grabbing will immediately rotate you. When disabled, doing the same thing will let you 'drag' the view. | Standing
 
 ## Building HoneySelectVR
 
