@@ -2,7 +2,7 @@
 
 This mod is for integrating existing VirtualReality HoneySelect mod (VRmod) with Linear Rendering Experiment (LRE) and Image Based Lighting (IBL)
 and adding some improvements.
-The main way to use this mod have already been referenced on the site of existing each mod.
+The main way to use this mod have already been referred on the site of existing each mod.
 If User wants to know about each mod in detail, please see them.
 
 - VRmod
@@ -56,10 +56,8 @@ HoneySelectVR comes in two *modes*:
 | Seated      | *Default mode.* This mode lets you play the game with a mouse, keyboard, or gamepad.<br />The controls are essentially the same as in the main game. The screen is presented on a big monitor in front of you. |
 | Standing    | As soon as tracked controllers are registered by the game, it switches into *standing mode*, also called *room scale mode*. In this mode, you can freely move around and use your Vive or Touch controllers to stuff. |
 
-
-### Seated Mode
-
-As stated earlier, the controls are basically the same as in the main game with the exception of a few VR-related shortcuts. You are presented with a screen in front of your that replaces your monitor and can be configured via the settings or via shortcuts (see below).
+### Common Mode
+On both Seated and Standing Mode, same shortcuts would be used.
 
 #### Keyboard Shortcuts
 
@@ -70,15 +68,24 @@ Keys      | Effect
 <kbd>Alt</kbd>+<kbd>S</kbd> | Save settings (IPD, screen position, etc.).
 <kbd>Alt</kbd>+<kbd>L</kbd> | Load settings (last saved state).
 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>L</kbd> | Reset settings to the initial state.
-<kbd>F4</kbd> | Switch GUI projection mode (flat, curved, spherical).
-<kbd>F5</kbd> | Toggle camera lock (enabled by default). This prevents the camera to *tilt* because such movements are known to cause cyber sickness.
 <kbd>Ctrl</kbd>+<kbd>F5</kbd> | Apply shaders (only for the brave)
-<kbd>F12</kbd> | Recenter
+<kbd>Alt</kbd>+<kbd>NumPad +</kbd> <br /> <kbd>Alt</kbd>+<kbd>NumPad –</kbd> | Increase / decrease player scale
 <kbd>NumPad +</kbd> <br /> <kbd>NumPad –</kbd> | Move GUI up / down.
 <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>NumPad +</kbd> <br /> <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>NumPad –</kbd> | Move GUI left / right
 <kbd>Ctrl</kbd>+<kbd>NumPad +</kbd> <br /> <kbd>Ctrl</kbd>+<kbd>NumPad –</kbd> | Increase / decrease GUI size.
-<kbd>Alt</kbd>+<kbd>NumPad +</kbd> <br /> <kbd>Alt</kbd>+<kbd>NumPad –</kbd> | Increase / decrease player scale
 <kbd>Shift</kbd>+<kbd>NumPad +</kbd> <br /> <kbd>Shift</kbd>+<kbd>NumPad –</kbd> | Increase / decrease GUI distance
+
+### Seated Mode
+
+As stated earlier, the controls are basically the same as in the main game with the exception of a few VR-related shortcuts. You are presented with a screen in front of your that replaces your monitor and can be configured via the settings or via shortcuts (see below).
+
+#### Keyboard Shortcuts
+
+Keys      | Effect
+----      | ------
+<kbd>F4</kbd> | Switch GUI projection mode (flat, curved, spherical).
+<kbd>F7</kbd> | Toggle camera lock (enabled by default). This prevents the camera to *tilt* because such movements are known to cause cyber sickness.
+<kbd>F12</kbd> | Recenter
 
 ### Standing Mode
 
@@ -88,13 +95,7 @@ The *standing mode* is where things start to get interesting. This mode is prett
 
 Keys      | Effect
 ----      | ------
-<kbd>Ctrl</kbd>+<kbd>C</kbd>, <kbd>Ctrl</kbd>+<kbd>C</kbd> | Change to *s mode*.
-<kbd>Ctrl</kbd>+<kbd>C</kbd>, <kbd>Ctrl</kbd>+<kbd>V</kbd> | Enable (very experimental) third person camera. [Was used for this video](https://www.youtube.com/watch?v=0klN6gd1ybM).
-<kbd>Alt</kbd>+<kbd>S</kbd> | Save settings (IPD, screen position, etc.).
-<kbd>Alt</kbd>+<kbd>L</kbd> | Load settings (last saved state).
-<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>L</kbd> | Reset settings to the initial state.
-<kbd>Ctrl</kbd>+<kbd>F5</kbd> | Apply shaders (only for the brave)
-<kbd>Alt</kbd>+<kbd>NumPad +</kbd> <br /> <kbd>Alt</kbd>+<kbd>NumPad –</kbd> | Increase / decrease player scale
+
 
 ## Tools
 
