@@ -159,6 +159,12 @@ It's also possible to change scale and height with this tool, although it's a bi
 
 By pressing the *grip button* you can reset the scale and height.
 
+### Leaping
+By improved UI/UX and leap functions, User can easily move where User hope.  
+Tag      | Default | Effect | Mode
+----     | ------  | ------ | ----
+<kbr>Grip</kbr>+<kbr>Grip</kbr> | rotate along y-axis (normal)
+
 ## Settings & Tweaks
 
 Settings can be changed in the file *vr_settings_for_IBL.xml*, which is generated the first time you start the game. Use `RenderScale` to tweak the resolution, **not** the internal resolution dialog, as that one will currently only change the resolution of the GUI.
