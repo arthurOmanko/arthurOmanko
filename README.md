@@ -70,6 +70,8 @@ Keys      | Effect
 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>L</kbd> | Reset settings to the initial state.
 <kbd>Ctrl</kbd>+<kbd>F5</kbd> | Apply shaders (only for the brave)
 <kbd>Alt</kbd>+<kbd>NumPad +</kbd> <br /> <kbd>Alt</kbd>+<kbd>NumPad –</kbd> | Increase / decrease player scale
+<kbd>Ctrl</kbd>+<kbd>F12</kbd> | Capture on VR.
+<kbd>Ctrl</kbd>+<kbd>Q</kbd> | Toggle fixing of Field of View for Camera (on IBL item). If want full functions of lens on IBL, unfix by toggle. 
 <kbd>NumPad +</kbd> <br /> <kbd>NumPad –</kbd> | Move GUI up / down.
 <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>NumPad +</kbd> <br /> <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>NumPad –</kbd> | Move GUI left / right
 <kbd>Ctrl</kbd>+<kbd>NumPad +</kbd> <br /> <kbd>Ctrl</kbd>+<kbd>NumPad –</kbd> | Increase / decrease GUI size.
