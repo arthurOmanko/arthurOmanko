@@ -38,10 +38,13 @@ https://github.com/Eusth/IPA
 
 
 ## [Mod Settings]
-- VRmod:    \{GameFolder}\vr_settings_for_IBL.xml   --- each setting
-            \{GameFolder}\vr_for_IBL.log   --- Log on VR execution
-- IBL:      \{GameFolder}\Plugins\HSIBL\Presets_for_VR   --- IBL Preset for VR
-- LRE:      \{GameFolder}\UserData\GraphicSetting\Config_for_VR.xml   --- LRE default for VR
+- VRmod:  
+  -- ${GameFolder}\vr_settings_for_IBL.xml   --- each setting  
+  -- ${GameFolder}\vr_for_IBL.log   --- Log on VR execution
+- IBL:      
+  -- ${GameFolder}\Plugins\HSIBL\Presets_for_VR   --- IBL Preset for VR
+- LRE:      
+  -- ${GameFolder}\UserData\GraphicSetting\Config_for_VR.xml   --- LRE default for VR
 
 
 ## Modes & Controls
