@@ -39,7 +39,7 @@ https://github.com/Eusth/IPA
 
 ## [Mod Settings]
 - VRmod:  
-  -- ${GameFolder}\vr_settings_for_IBL.xml   --- each setting  
+  -- ${GameFolder}\vr_settings_for_IBL.xml   --- each VR setting  
   -- ${GameFolder}\vr_for_IBL.log   --- Log on VR execution
 - IBL:      
   -- ${GameFolder}\Plugins\HSIBL\Presets_for_VR   --- IBL Preset for VR
