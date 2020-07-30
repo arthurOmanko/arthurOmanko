@@ -179,6 +179,7 @@ both hands needed
 <kbd>Grip</kbd>+<kbd>Grip</kbd> | rotate around y-axis (normal)
 <kbd>Grip</kbd>+<kbd>Menu</kbd> | rotate around x-axis (added)
 <kbd>Grip</kbd>+<kbd>trigger</kbd> | rotate around z-axis (added)
+<kbd>Menu</kbd>+<kbd>UpArrow</kbd>+<kbd>trigger</kbd> <br /> <kbd>Menu</kbd>+<kbd>DownArrow</kbd>+<kbd>trigger</kbd> | decrease/increase the distance up to chara on leaping.
 
 ## Settings & Tweaks
 
@@ -202,6 +203,7 @@ Tag      | Default | Effect | Mode
 `<RotationMultiplier>` | 2.5 | Accelaration of rotation | Seated / Standing
 `<Leap>` | true | Whether or not Leap Motion support is activated. | Standing 
 `<GrabRotationImmediateMode>` | true | Determines the rotation mode. If enabled, pulling the trigger while grabbing will immediately rotate you. When disabled, doing the same thing will let you 'drag' the view. | Standing
+ `<DefaultDistanceOfLeap>` | 0.5 | Default distance up to chara on leaping. | Standing
 
 ## Building HoneySelectVR
 
