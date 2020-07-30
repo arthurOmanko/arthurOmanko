@@ -81,7 +81,7 @@ Keys      | Effect
 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>L</kbd> | Reset settings to the initial state.
 <kbd>Ctrl</kbd>+<kbd>F5</kbd> | Apply shaders (only for the brave)
 <kbd>Alt</kbd>+<kbd>NumPad +</kbd> <br /> <kbd>Alt</kbd>+<kbd>NumPad –</kbd> | Increase / decrease player scale
-<kbd>Ctrl</kbd>+<kbd>F12</kbd> | Capture on VR.
+<kbd>Ctrl</kbd>+<kbd>F12</kbd> | 360 Panorama Capture on VR.
 <kbd>Ctrl</kbd>+<kbd>Q</kbd> | Toggle fixing of Field of View for Camera (on IBL item). If want full functions of lens on IBL, unfix by toggle. 
 <kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>C</kbd> | Most GUI Default textures get changed from transparent into opaque to improve UI/UX usability 
 <kbd>Shift</kbd>+<kbd>UpArrow</kbd> <br /> <kbd>Shift</kbd>+<kbd>DownArrow</kbd> | Increse / decrease the size of Buttons on GUI. (To avoid disapperance of Buttons depending on the resolution of screen)
