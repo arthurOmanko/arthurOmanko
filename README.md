@@ -160,7 +160,7 @@ It's also possible to change scale and height with this tool, although it's a bi
 
 By pressing the *grip button* you can reset the scale and height.
 
-### UI/UX abstract
+#### UI/UX abstract
 By improved UI/UX and leap functions, User can easily move where User want.  
 Tag      |  Move   | 
 ----     | ------  | 
@@ -170,6 +170,7 @@ only one hand needed
 <kbd>grip</kbd>+<kbd>trackpad</kbd> | rotate around y-axis (normal)
 <kbd>trackpad</kbd> | warp where User wants
 <kbd>grip</kbd>+<kbd>move</kbd> | move where User wants
+<kbd>menu</kbd>+<kbd>holding</kbd> | menu on warp mode
 both hands needed
 <kbd>Grip</kbd>+<kbd>Grip</kbd> | rotate around y-axis (normal)
 <kbd>Grip</kbd>+<kbd>Menu</kbd> | rotate around x-axis (added)
