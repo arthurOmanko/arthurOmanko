@@ -78,10 +78,7 @@ Keys      | Effect
 <kbd>Alt</kbd>+<kbd>NumPad +</kbd> <br /> <kbd>Alt</kbd>+<kbd>NumPad –</kbd> | Increase / decrease player scale
 <kbd>Ctrl</kbd>+<kbd>F12</kbd> | Capture on VR.
 <kbd>Ctrl</kbd>+<kbd>Q</kbd> | Toggle fixing of Field of View for Camera (on IBL item). If want full functions of lens on IBL, unfix by toggle. 
-<kbd>NumPad +</kbd> <br /> <kbd>NumPad –</kbd> | Move GUI up / down.
-<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>NumPad +</kbd> <br /> <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>NumPad –</kbd> | Move GUI left / right
-<kbd>Ctrl</kbd>+<kbd>NumPad +</kbd> <br /> <kbd>Ctrl</kbd>+<kbd>NumPad –</kbd> | Increase / decrease GUI size.
-<kbd>Shift</kbd>+<kbd>NumPad +</kbd> <br /> <kbd>Shift</kbd>+<kbd>NumPad –</kbd> | Increase / decrease GUI distance
+
 <kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>C</kbd> | Most GUI Default textures get changed from transparent into opaque to improve UI/UX usability 
 <kbd>Shift</kbd>+<kbd>UpArrow</kbd> <br /> <kbd>Shift</kbd>+<kbd>DownArrow</kbd> | Increse / decrease the size of Buttons on GUI. (To avoid disapperance of Buttons depending on the resolution of screen)
 
@@ -96,6 +93,10 @@ Keys      | Effect
 <kbd>F4</kbd> | Switch GUI projection mode (flat, curved, spherical).
 <kbd>F7</kbd> | Toggle camera lock (disabled by default). This prevents the camera to *tilt* because such movements are known to cause cyber sickness.
 <kbd>F12</kbd> | Recenter
+<kbd>NumPad +</kbd> <br /> <kbd>NumPad –</kbd> | Move GUI up / down.
+<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>NumPad +</kbd> <br /> <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>NumPad –</kbd> | Move GUI left / right
+<kbd>Ctrl</kbd>+<kbd>NumPad +</kbd> <br /> <kbd>Ctrl</kbd>+<kbd>NumPad –</kbd> | Increase / decrease GUI size.
+<kbd>Shift</kbd>+<kbd>NumPad +</kbd> <br /> <kbd>Shift</kbd>+<kbd>NumPad –</kbd> | Increase / decrease GUI distance
 
 ### Standing Mode
 
