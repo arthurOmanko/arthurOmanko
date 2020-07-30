@@ -164,7 +164,9 @@ By pressing the *grip button* you can reset the scale and height.
 By improved UI/UX and leap functions, User can easily move where User hope.  
 Tag      | Default | Effect | Mode
 ----     | ------  | ------ | ----
-<kbr>Grip</kbr>+<kbr>Grip</kbr> | rotate along y-axis (normal)
+<kbd>Grip</kbd>+<kbd>Grip</kbd> | rotate around y-axis (normal)
+<kbd>Grip</kbd>+<kbd>Menu</kbd> | rotate around x-axis (added)
+<kbd>Grip</kbd>+<kbd>trigger</kbd> | rotate around z-axis (added)
 
 ## Settings & Tweaks
 
