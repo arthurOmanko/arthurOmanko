@@ -63,6 +63,7 @@ On both Seated and Standing Mode, same shortcuts would be used.
 
 Keys      | Effect
 ----      | ------
+<kbd>F5</kbd> | GUI of IBL on
 <kbd>Ctrl</kbd>+<kbd>C</kbd>, <kbd>Ctrl</kbd>+<kbd>C</kbd> | Change to *standing mode*.
 <kbd>Ctrl</kbd>+<kbd>C</kbd>, <kbd>Ctrl</kbd>+<kbd>V</kbd> | Enable (very experimental) third person camera. [Was used for this video](https://www.youtube.com/watch?v=0klN6gd1ybM).
 <kbd>Alt</kbd>+<kbd>S</kbd> | Save settings (IPD, screen position, etc.).
