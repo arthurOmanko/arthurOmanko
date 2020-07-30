@@ -168,7 +168,7 @@ By improved UI/UX and leap functions, User can easily move where User want.
 Tag      |  Move   | 
 ----     | ------  | 
 only one hand needed
-<kbd>menu</kbd>+<kbd>trigger</kbd> | warp into chara along User's line of sight
+<kbd>menu</kbd>+<kbd>trigger</kbd> | warp in front of chara along User's line of sight
 <kbd>tigger</kbd>+<kbd>1 second</kbd> | impersonate chara along User's line of sight
 <kbd>grip</kbd>+<kbd>trackpad</kbd> | rotate around y-axis (normal)
 <kbd>trackpad</kbd> | warp where User wants
