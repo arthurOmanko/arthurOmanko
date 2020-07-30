@@ -16,7 +16,8 @@ https://github.com/Eusth/IPA
 https://www.theschoolofsin.com/ibl-and-image-quality
 - About LRE
 https://docs.unity3d.com/540/Documentation/Manual/LinearLighting.html
-
+  
+Thanks very much, these autors!
 
 ## [Installation]
 1. Extract the zip file into User's HoneySelect directory.
