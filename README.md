@@ -1,6 +1,6 @@
 ﻿# HoneySelect VRmod with LRE & IBL
 
-This mod is for integrating existing VirtualReality HoneySelect mod (VRmod) with Linear Rendering Experiment (LRE) and Image Based Lighting (IBL)
+This mod is for integrating existing VirtualReality HoneySelect mod (VRmod) with Linear Rendering Experiment (LRE) and Image Based Lighting (IBL),
 and adding some improvements.
 The main way to use this mod have already been referred on the site of existing each mod.
 If User wants to know about each mod in detail, please see them.
@@ -40,7 +40,8 @@ https://docs.unity3d.com/540/Documentation/Manual/LinearLighting.html
 ## [Requirements]
 - Game updated with the last patch and DLC installed
 - Installed and set up SteamVR
-- HSExtSave plugin
+- HSExtSave plugin  
+https://joan6694.bitbucket.io/
 
 
 ## [Mod Settings]
