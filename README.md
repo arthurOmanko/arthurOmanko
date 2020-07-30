@@ -160,7 +160,7 @@ It's also possible to change scale and height with this tool, although it's a bi
 
 By pressing the *grip button* you can reset the scale and height.
 
-### Leaping
+### UI/UX abstract
 By improved UI/UX and leap functions, User can easily move where User want.  
 Tag      |  Move   | 
 ----     | ------  | 
