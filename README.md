@@ -22,7 +22,7 @@ https://docs.unity3d.com/540/Documentation/Manual/LinearLighting.html
 2. Run (HoneySelect|StudioNEO)_(64|32)_for_VR_with_IBL
 3. Enjoy super high quality on VR!
 
-**Caution** 
+**Caution!** 
 - This mod might rewrite some existing files and cause some bugs depending on User's environment.
   Please back up Game root folder before installing necessarily.
 - This mod has no internet connections at all. If User encounters any Firewall problem by this mod, please dont allow any connections.
