@@ -53,7 +53,7 @@ https://joan6694.bitbucket.io/
   -- ${GameFolder}\abdata\plastic\cubemaps   --- IBL cubemaps (common with normal IBL if there is)  
   -- ${GameFolder}\UserData\modprefs.ini   --- IBL setting (common with normal IBL if there is)
 - LRE:      
-  -- ${GameFolder}\UserData\GraphicSetting\Config_for_VR.xml   --- LRE default for VR
+  -- ${GameFolder}\UserData\GraphicSetting\Config_for_VR.xml   --- LRE setting for VR
 
 
 ## Modes & Controls
