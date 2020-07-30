@@ -191,6 +191,7 @@ only one hand needed
 <kbd>menu</kbd>+<kbd>trigger</kbd> | warp in front of chara along User's line of sight
 <kbd>tigger</kbd>+<kbd>1 second</kbd> | impersonate chara along User's line of sight
 <kbd>grip</kbd>+<kbd>trackpad</kbd> | rotate around y-axis (normal)
+<kbd>grip</kbd>+<kbd>trigger</kbd> | rotata around y-axis 
 <kbd>trackpad</kbd> | warp where User wants
 <kbd>grip</kbd>+<kbd>move</kbd> | move where User wants
 <kbd>menu</kbd>+<kbd>holding</kbd> | menu on warp mode
