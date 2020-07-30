@@ -192,7 +192,7 @@ Tag      | Default | Effect | Mode
 `<MirrorScreen>` | False | Sets whether or not the view should be mirrored in the game window. | Seated / Standing
 `<ApplyShaders>` | true | Sets whether or not post-processing shaders should automatically be applied to the camera. | Seated / Standing
 `<NearClip>` | 0.01 | Within this distance, seen chara gets transparent. | Seated / Standing
-`<PitchLock>` | false | Whether or not can rotate on all axises | Seated
+`<PitchLock>` | false | Whether or not can rotate on all axises (unlocked = false) | Seated
 `<Projection>` | flat | The appearance of GUI seen | Seated
 `<SpeechRecognition>` | false | Whether or not speech recognition is enabled. | Seated / Standing
 `<RotationMultiplier>` | 2.5 | Accelaration of rotation | Seated / Standing
