@@ -11,7 +11,8 @@ https://github.com/Eusth/HoneySelectVR
 https://joan6694.bitbucket.io/
 - IPA
 https://github.com/Eusth/IPA
-
+- About IBL
+https://www.theschoolofsin.com/ibl-and-image-quality
 
 ## [Installation]
 1. Extract the zip file into User's HoneySelect directory.
