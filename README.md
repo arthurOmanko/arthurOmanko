@@ -93,7 +93,7 @@ As stated earlier, the controls are basically the same as in the main game with 
 
 #### Keyboard Shortcuts
 
-Keys      | Effect
+Keys &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      | Effect
 ----      | ------
 <kbd>F4</kbd> | Switch GUI projection mode (flat, curved, spherical).
 <kbd>F7</kbd> | Toggle camera lock (disabled by default). This prevents the camera to *tilt* because such movements are known to cause cyber sickness.
