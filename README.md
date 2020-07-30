@@ -29,7 +29,7 @@ https://github.com/Eusth/IPA
 - Chara texture will get weird on Title, (enabling/disabling) self shadow, switching (seated/standing) mode, applying shader (as long as known as of now).
   The provider doesnt know about this reason very sorry. If User encounters this problem, initialize scene or chara.
   Until quitting Application , it will not happen twice. 
-- Whether or not User has already installed noraml IBL or LRE, This mod works only on VR execution not depending on it. Normal IBL&LRE are separeted from IBL&LRE of this mod during Application execution, so both dont influence with each other.   
+- Whether or not User has already installed noraml IBL or LRE, this mod works only on VR execution(command option = "--vr") not depending on it. Normal IBL&LRE are separeted from IBL&LRE of this mod during Application execution, so both dont influence with each other.   
 - ${***_(64|32)_Data}\Managed\IllusionInjector.dll in this mod controlls this mod's LRE&IBL on VR. If User changes this DLL, on VR execution User might encounter any bugs. Use the DLL and this mod's LRE&IBL together. 
 
 
