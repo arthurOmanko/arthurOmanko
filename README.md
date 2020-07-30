@@ -43,7 +43,8 @@ https://github.com/Eusth/IPA
   -- ${GameFolder}\vr_settings_for_IBL.xml   --- each VR setting  
   -- ${GameFolder}\vr_for_IBL.log   --- Log on VR execution
 - IBL:      
-  -- ${GameFolder}\Plugins\HSIBL\Presets_for_VR   --- IBL Preset for VR
+  -- ${GameFolder}\Plugins\HSIBL\Presets_for_VR   --- IBL Preset for VR  
+  -- ${GameFolder}\UserData\modprefs.ini   --- IBL setting (common with normal IBL)
 - LRE:      
   -- ${GameFolder}\UserData\GraphicSetting\Config_for_VR.xml   --- LRE default for VR
 
@@ -90,7 +91,7 @@ As stated earlier, the controls are basically the same as in the main game with 
 Keys      | Effect
 ----      | ------
 <kbd>F4</kbd> | Switch GUI projection mode (flat, curved, spherical).
-<kbd>F7</kbd> | Toggle camera lock (enabled by default). This prevents the camera to *tilt* because such movements are known to cause cyber sickness.
+<kbd>F7</kbd> | Toggle camera lock (disabled by default). This prevents the camera to *tilt* because such movements are known to cause cyber sickness.
 <kbd>F12</kbd> | Recenter
 
 ### Standing Mode
