@@ -30,6 +30,7 @@ https://github.com/Eusth/IPA
   The provider doesnt know about this reason very sorry. If User encounters this problem, initialize scene or chara.
   Until quitting Application , it will not happen twice. 
 - Whether or not User has already installed noraml IBL or LRE, This mod works only on VR execution not depending on it. Normal IBL&LRE are separeted from IBL&LRE of this mod during Application execution, so both dont influence with each other.   
+- ${***_(64|32)_Data}\Managed\IllusionInjector.dll in this mod controlls this mod's LRE&IBL on VR. If you change this DLL, on VR execution you might encounter any bugs. Use the DLL and this mod's LRE&IBL together. 
 
 
 ## [Requirements]
