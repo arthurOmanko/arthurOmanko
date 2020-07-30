@@ -140,6 +140,17 @@ Furthermore, it's possible to *resize* the screen. In order to do that, point bo
 
 Lastly, to take control of the screen again, press the grip button once more.
 
+#### UI/UX abstract
+Tag      |  Move   | 
+----     | ------  | 
+only one hand needed
+<kbd>trackpad</kbd>+<kbd>move</kbd> | move cursor
+<kbd>trigger</kbd> | click cursor
+<kbd>menu</kbd> | display menu
+<kbd>grip</kbd> | put GUI or grab put GUI
+both hands needed
+<kbd>trigger</kbd>+<kbd>trigger</kbd> | resize put GUI.
+
 ### Warp Tool (standing)
 
 <img src="https://github.com/Eusth/PlayClubVR/raw/master/Manual/warp_tool.png">
