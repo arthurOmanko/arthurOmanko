@@ -161,12 +161,14 @@ It's also possible to change scale and height with this tool, although it's a bi
 By pressing the *grip button* you can reset the scale and height.
 
 ### Leaping
-By improved UI/UX and leap functions, User can easily move where User hope.  
+By improved UI/UX and leap functions, User can easily move where User want.  
 Tag      |  Move   | 
 ----     | ------  | 
 only one hand needed
 <kbd>menu</kbd>+<kbd>trigger</kbd> | warp into chara along User's line of sight
-<kbd>tigger</kbd>+<kbd>pushing for 1 second</kbd> | impersonate chara along User's line of sight
+<kbd>tigger</kbd>+<kbd>1 second</kbd> | impersonate chara along User's line of sight
+<kbd>grip</kbd>+<kbd>trackpad</kbd> | rotate around y-axis (normal)
+<kbd>trackpad</kbd> | warp where User want
 both hands needed
 <kbd>Grip</kbd>+<kbd>Grip</kbd> | rotate around y-axis (normal)
 <kbd>Grip</kbd>+<kbd>Menu</kbd> | rotate around x-axis (added)
