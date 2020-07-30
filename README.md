@@ -73,7 +73,7 @@ On both Seated and Standing Mode, same shortcuts would be used.
 #### Keyboard Shortcuts
 
 Keys &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          | Effect
-------------  | ------
+:------------:  | ------
 <kbd>F5</kbd> | GUI of IBL on/off
 <kbd>Ctrl</kbd>+<kbd>C</kbd>, <kbd>Ctrl</kbd>+<kbd>C</kbd> | Change to Standing/Seated mode.
 <kbd>Ctrl</kbd>+<kbd>C</kbd>, <kbd>Ctrl</kbd>+<kbd>V</kbd> | Enable (very experimental) third person camera. [Was used for this video](https://www.youtube.com/watch?v=0klN6gd1ybM). If get on, this makes a Camera Box at (0, 0, 0) which User can grab and put where User hope. The display of the camera gets displayed on User's PC screen. Very interesting!
@@ -94,7 +94,7 @@ As stated earlier, the controls are basically the same as in the main game with 
 #### Keyboard Shortcuts
 
 Keys &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      | Effect
-----      | ------
+:----:     | ------
 <kbd>F4</kbd> | Switch GUI projection mode (flat, curved, spherical).
 <kbd>F7</kbd> | Toggle camera lock (disabled by default). This prevents the camera to *tilt* because such movements are known to cause cyber sickness.
 <kbd>F12</kbd> | Recenter
