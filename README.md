@@ -146,7 +146,7 @@ Furthermore, it's possible to *resize* the screen. In order to do that, point bo
 
 Lastly, to take control of the screen again, press the grip button once more.
 
-#### UI/UX abstract
+#### UI/UX abstract on Menu
 Tag      |  Move   | 
 ----     | ------  | 
 only one hand needed
@@ -181,7 +181,7 @@ It's also possible to change scale and height with this tool, although it's a bi
 
 By pressing the *grip button* you can reset the scale and height.
 
-#### UI/UX abstract
+#### UI/UX abstract on Warp
 By improved UI/UX and leap functions, User can easily move where User want.  
 Tag      |  Move   | 
 ----     | ------  | 
