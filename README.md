@@ -45,7 +45,7 @@ https://github.com/Eusth/IPA
   -- ${GameFolder}\vr_for_IBL.log   --- Log on VR execution
 - IBL:      
   -- ${GameFolder}\Plugins\HSIBL\Presets_for_VR   --- IBL Preset for VR  
-  -- ${GameFolder}\abdata\plastic\cubemaps   --- IBL cubemaps (common with normal IBL if there is)
+  -- ${GameFolder}\abdata\plastic\cubemaps   --- IBL cubemaps (common with normal IBL if there is)  
   -- ${GameFolder}\UserData\modprefs.ini   --- IBL setting (common with normal IBL if there is)
 - LRE:      
   -- ${GameFolder}\UserData\GraphicSetting\Config_for_VR.xml   --- LRE default for VR
