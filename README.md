@@ -101,8 +101,8 @@ Keys      | Effect
 <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>NumPad +</kbd> <br /> <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>NumPad –</kbd> | Move GUI left / right
 <kbd>Ctrl</kbd>+<kbd>NumPad +</kbd> <br /> <kbd>Ctrl</kbd>+<kbd>NumPad –</kbd> | Increase / decrease GUI size.
 <kbd>Shift</kbd>+<kbd>NumPad +</kbd> <br /> <kbd>Shift</kbd>+<kbd>NumPad –</kbd> | Increase / decrease GUI distance
-<kbd>Ctrl</kbd>+<kbd>X</kbd> | Impersonate a chara Approximately
-<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd> | Impersonate a chara Exactly
+<kbd>Ctrl</kbd>+<kbd>X</kbd> | Impersonate a chara Approximately (not matching in regar with height)
+<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd> | Impersonate a chara Exactly (matching all x, y, z position)
 
 ### Standing Mode
 
