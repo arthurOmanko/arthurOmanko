@@ -14,7 +14,7 @@ https://github.com/Eusth/IPA
 
 
 ## [Installation]
-1. Extract the zip file into your HoneySelect directory.
+1. Extract the zip file into User's HoneySelect directory.
 2. Run (HoneySelect|StudioNEO)_(64|32)_for_VR_with_IBL
 3. Enjoy!
 
