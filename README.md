@@ -16,7 +16,7 @@ https://github.com/Eusth/IPA
 ## [Installation]
 1. Extract the zip file into User's HoneySelect directory.
 2. Run (HoneySelect|StudioNEO)_(64|32)_for_VR_with_IBL
-3. Enjoy!
+3. Enjoy super high quality on VR!
 
 **Caution** 
 - This mod might rewrite some existing files and cause some bugs depending on User's environment.
