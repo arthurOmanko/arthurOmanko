@@ -75,11 +75,11 @@ Keys      | Effect
 ----      | ------
 <kbd>F5</kbd> | GUI of IBL on/off
 <kbd>Ctrl</kbd>+<kbd>C</kbd>, <kbd>Ctrl</kbd>+<kbd>C</kbd> | Change to Standing/Seated mode.
-<kbd>Ctrl</kbd>+<kbd>C</kbd>, <kbd>Ctrl</kbd>+<kbd>V</kbd> | Enable (very experimental) third person camera. [Was used for this video](https://www.youtube.com/watch?v=0klN6gd1ybM).
+<kbd>Ctrl</kbd>+<kbd>C</kbd>, <kbd>Ctrl</kbd>+<kbd>V</kbd> | Enable (very experimental) third person camera. [Was used for this video](https://www.youtube.com/watch?v=0klN6gd1ybM). If on, this makes a Camera Box at (0, 0, 0) which User can grab and put where User hope. The display of the camera gets displayed on User's PC screen. Very interesting!  
 <kbd>Alt</kbd>+<kbd>S</kbd> | Save settings (IPD, screen position, etc.).
 <kbd>Alt</kbd>+<kbd>L</kbd> | Load settings (last saved state).
 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>L</kbd> | Reset settings to the initial state.
-<kbd>Ctrl</kbd>+<kbd>F5</kbd> | Apply shaders (only for the brave)
+<kbd>Ctrl</kbd>+<kbd>F5</kbd> | Apply shaders (Post-processing Effects get applied (such as SSAO, ToneMapping, Color Grading etc.))
 <kbd>Alt</kbd>+<kbd>NumPad +</kbd> <br /> <kbd>Alt</kbd>+<kbd>NumPad –</kbd> | Increase / decrease player scale
 <kbd>Ctrl</kbd>+<kbd>F12</kbd> | 360 Panorama Capture on VR. (=> ${GameFolder}\UserData\cap)
 <kbd>Ctrl</kbd>+<kbd>Q</kbd> | Toggle fixing of Field of View for Camera (on IBL item). If want full functions of lens on IBL, unfix by toggle. 
