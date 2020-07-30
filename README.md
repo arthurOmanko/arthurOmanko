@@ -152,8 +152,8 @@ Lastly, to take control of the screen again, press the grip button once more.
 Tag      |  Move   | 
 ----     | ------  | 
 only one hand needed
-<kbd>trackpad</kbd>+<kbd>move</kbd> | move cursor
-<kbd>trigger</kbd> | click cursor
+<kbd>trackpad</kbd>+<kbd>move</kbd> | move mouse cursor
+<kbd>trigger</kbd> | click mouse cursor
 <kbd>menu</kbd> | display menu
 <kbd>grip</kbd> | put GUI or grab put GUI
 both hands needed
