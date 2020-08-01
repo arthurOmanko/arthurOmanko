@@ -27,8 +27,7 @@ Thanks very much, these autors!
 **Caution!** 
 - This mod might rewrite some existing files and cause some bugs depending on User's environment.
   Please back up Game root folder before installing necessarily.
-- This mod has no internet connections at all. If User encounters any Firewall problem by this mod, please dont allow any connections.
-  The provider does not know why this happens yet. All origianl codes before changing are from authors cited above and the provider has added no codes about outgoing connections. However if you see documents on web from clicking on IBL GUI, the limitation shall not be applied to.
+- This mod has no internet connections at all. If User encounters any Firewall problem, it would be by original Game. All origianl codes before changing are from authors cited above and the provider has added no codes about outgoing connections. However if you see documents on web from clicking on IBL GUI, the limitation shall not be applied to.
 - This mod will often have heavy loads on memory especially, so User might get freezed or encounter PC crashes on VR execution. 
   In the case, User can decrease the number of post-processing effects or also have no effects (ApplyShaders = false).
   Please be careful to avoid any probelm caused by the case.
