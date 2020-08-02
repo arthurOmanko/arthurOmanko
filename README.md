@@ -212,7 +212,7 @@ only one hand needed
 <kbd>grip</kbd>+<kbd>DoubleClicks</kbd> | Both Gone or Vomit
 <kbd>trackpad</kbd>+<kbd>DoubleClicks</kbd> | FinishOut
 <kbd>trackpad</kbd>+<kbd>trigger</kbd> | I'm coming!
-
+<kbd>trackpad</kbd>+<kbd>slide along y-axis</kbd> | change piston speed etc.
 
 ## Settings & Tweaks
 
