@@ -210,6 +210,7 @@ only one hand needed
 <kbd>trackpad</kbd>+<kbd>DoubleClicks</kbd> | FinishOut
 <kbd>trackpad</kbd>+<kbd>trigger</kbd> | I'm coming!
 <kbd>trackpad</kbd>+<kbd>slide along y-axis</kbd> | change piston speed etc.
+<kbd>menu</kbd> | display each fuction
 
 ## Settings & Tweaks
 
