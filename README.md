@@ -53,7 +53,7 @@ https://joan6694.bitbucket.io/
 - IBL:      
   -- ${GameFolder}\Plugins\HSIBL\Presets_for_VR   --- IBL Preset for VR  
   -- ${GameFolder}\abdata\plastic\cubemaps   --- IBL cubemaps (common with normal IBL if there is)  
-  -- ${GameFolder}\UserData\modprefs.ini   --- IBL setting (common with normal IBL if there is)
+  -- ${GameFolder}\UserData\modprefs.ini   --- IBL setting on [HSIBLforVR] item. For initial GUI size etc.
 - LRE:      
   -- ${GameFolder}\UserData\GraphicSetting\Config_for_VR.xml   --- LRE setting for VR
 
