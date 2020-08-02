@@ -203,12 +203,16 @@ both hands needed
 <kbd>Menu</kbd>+<kbd>UpArrow</kbd>+<kbd>trigger</kbd> <br /> <kbd>Menu</kbd>+<kbd>DownArrow</kbd>+<kbd>trigger</kbd> | decrease/increase the distance up to chara on leaping.
 
 ### Play Tool (Standing / Seated)
-![play_tool](https://user-images.githubusercontent.com/68005887/89115805-5ce03780-d4c7-11ea-811d-c2b4ceb54b09.png)
+![play_tool](https://user-images.githubusercontent.com/68005887/89115805-5ce03780-d4c7-11ea-811d-c2b4ceb54b09.png)  
 The play tool is used to interact with the scene.
 Tag      |  Move   | 
 ----     | ------  | 
 only one hand needed
 <kbd>trigger</kbd>+<kbd>DoubleClicks</kbd> | FinishIn or Drink
+<kbd>grip</kbd>+<kbd>DoubleClicks</kbd> | Both Gone or Vomit
+<kbd>trackpad</kbd>+<kbd>DoubleClicks</kbd> | FinishOut
+<kbd>trackpad</kbd>+<kbd>trigger</kbd> | I'm coming!
+
 
 ## Settings & Tweaks
 
