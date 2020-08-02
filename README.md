@@ -127,8 +127,7 @@ These tools are mainly meant to be used in *standing mode* but some of them are 
 With the *menu tool* you can interact with the user interface of the game. There are, in fact, two ways you can control the mouse: a two-handed way that makes use of a laser pointer, and a one-handed way that lets you use your trackpad like a ... touchpad!
 
 #### Laser pointer
-
-<img src="https://github.com/Eusth/PlayClubVR/raw/master/Manual/laser_pointer.jpg">
+![laser_pointer](https://user-images.githubusercontent.com/68005887/89115930-0f64ca00-d4c9-11ea-84d9-7c39582e845a.jpg)  
 
 To use the laser pointer, simply point the *other controller* at the menu screen. A laser pointer will appear and you can easily interact with the UI. To make a click, press the trigger button.
 
@@ -137,8 +136,8 @@ To use the laser pointer, simply point the *other controller* at the menu screen
 To use the trackpad, slide with your thumb over the trackpad and the mouse cursor will move accordingly. To make a click, press the trackpad.
 
 #### Attaching, Detaching and Resizing the Menu
+![scale](https://user-images.githubusercontent.com/68005887/89115937-20154000-d4c9-11ea-96f9-975ffb9da280.jpg)  
 
-<img src="https://github.com/Eusth/PlayClubVR/raw/master/Manual/scale.jpg">
 
 It's possible to detach and resize the menu you're holding at any point in the game.
 
@@ -160,8 +159,7 @@ both hands needed
 <kbd>trigger</kbd>+<kbd>trigger</kbd> | resize put GUI.
 
 ### Warp Tool (standing)
-
-<img src="https://github.com/Eusth/PlayClubVR/raw/master/Manual/warp_tool.png">
+![warp_tool](https://user-images.githubusercontent.com/68005887/89115946-358a6a00-d4c9-11ea-87b0-ba7e6088070a.png)  
 
 The *warp tool* is only available in room scale mode and allows you to jump around in the scene.
 
@@ -175,7 +173,7 @@ In order to warp, touch the trackpad, choose your position and press. While touc
 
 You can also *rotate* your play area while touching the trackpad by drawing circles with your thumb.
 
-<img src="https://github.com/Eusth/PlayClubVR/raw/master/Manual/warp.jpg">
+![warp](https://user-images.githubusercontent.com/68005887/89115953-49ce6700-d4c9-11ea-811b-39a77fc49fe3.jpg)  
 
 #### Changing Scale and Height
 
