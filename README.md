@@ -235,6 +235,7 @@ Tag      | Default | Effect | Mode
 `<Leap>` | true | Whether or not Leap Motion support is activated. | Standing 
 `<GrabRotationImmediateMode>` | true | Determines the rotation mode. If enabled, pulling the trigger while grabbing will immediately rotate you. When disabled, doing the same thing will let you 'drag' the view. | Standing
  `<DefaultDistanceOfLeap>` | 0.5 | Default distance up to chara on leaping. | Standing
+ `<SpeedOfMouseWheel>` | 3 | speed of mouse wheel on PlayTool | Standing / Seated
 
 ## Building HoneySelectVR
 
