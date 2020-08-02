@@ -202,6 +202,14 @@ both hands needed
 <kbd>Grip</kbd>+<kbd>trigger</kbd> | rotate around z-axis (added)
 <kbd>Menu</kbd>+<kbd>UpArrow</kbd>+<kbd>trigger</kbd> <br /> <kbd>Menu</kbd>+<kbd>DownArrow</kbd>+<kbd>trigger</kbd> | decrease/increase the distance up to chara on leaping.
 
+### Play Tool (Standing / Seated)
+![play_tool](https://user-images.githubusercontent.com/68005887/89115805-5ce03780-d4c7-11ea-811d-c2b4ceb54b09.png)
+The play tool is used to interact with the scene.
+Tag      |  Move   | 
+----     | ------  | 
+only one hand needed
+<kbd>trigger</kbd>+<kbd>DoubleClicks</kbd> | FinishIn or Drink
+
 ## Settings & Tweaks
 
 Settings can be changed in the file *vr_settings_for_IBL.xml*, which is generated the first time you start the game. Use `RenderScale` to tweak the resolution, **not** the internal resolution dialog, as that one will currently only change the resolution of the GUI.
