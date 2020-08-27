@@ -16,7 +16,8 @@ https://github.com/Eusth/IPA
 https://www.theschoolofsin.com/ibl-and-image-quality
 - About LRE
 https://docs.unity3d.com/540/Documentation/Manual/LinearLighting.html
-  
+- LRE&IBL starter guide
+https://www.patreon.com/posts/meta-body-skin-26688397
 Thanks very much, these autors!
 
 ## [Installation]
